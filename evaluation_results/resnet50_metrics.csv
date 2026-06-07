@@ -1,0 +1,2 @@
+model,val_loss,val_accuracy,precision_macro,recall_macro,f1_macro,roc_auc_macro,inference_ms,phase1_time_s,phase2_time_s,total_time_s
+ResNet50,0.7166,0.669,0.3334,0.333,0.3327,0.4963,138.97,2560.8,3977.1,6537.9

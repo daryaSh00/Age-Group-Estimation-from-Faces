@@ -1,0 +1,2 @@
+model,val_accuracy,val_loss,macro_precision,macro_recall,macro_f1,macro_roc_auc,inference_time_s,per_image_ms,phase1_epochs,total_epochs,phase1_train_time_s,phase2_train_time_s
+MobileNetV2,0.7388,0.5677,0.3246,0.3242,0.3242,0.4916,3.96,1.11,13,33,2560.8,3977.1

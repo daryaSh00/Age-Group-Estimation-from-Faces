@@ -1,0 +1,4 @@
+Model,Accuracy,F1-Score,Training Time,Parameters,Grad-CAM Quality,SHAP Interpretability,Overall Finding
+Custom CNN,74.4%,0.7438,~120s,19.4M,2/5,2/5,Good accuracy but poor explainability; scattered attention & diffuse SHAP
+MobileNetV2,74.6%,0.7453,~8min,2.6M,4/5,5/5,"BEST: Highest accuracy, best explainability, patterns generalize"
+ResNet50,66.4%,0.6648,~12min,24.1M,3/5,4/5,Lower accuracy; clean explanations but sometimes illogical features

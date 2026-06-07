@@ -1,0 +1,2 @@
+model,val_accuracy,val_loss,macro_precision,macro_recall,macro_f1,macro_roc_auc,inference_time_s,per_image_ms
+CNN,0.705,0.6477,0.336,0.336,0.3334,0.5018,3.92,1.1
